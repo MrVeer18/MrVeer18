@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Veer Solanki</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrveer18&label=Profile%20views&color=0e75b6&style=flat" alt="mrveer18" /> </p>
+<img align="right" alt="coding" widht="400" src"">
+  <a style="display:block" align="left" href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Veer&label=Profile%20Views&color=11&pretty=false" />
+  </a>
 
 - 💬 Ask me about **Angular**
 
