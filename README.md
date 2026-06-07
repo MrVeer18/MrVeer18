@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="250"  src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="250"  src="./coder.gif">
 Hi 👋, I'm Veer Solanki<br>A passionate Software Developer from India<br>💬 Ask me about React,NextJS,Python,NodeJS<br>📫 How to reach me veeriscoding@gmail.com<br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=MrVeer&label=Profile%20Views&color=11&icon=0&pretty=false" />
